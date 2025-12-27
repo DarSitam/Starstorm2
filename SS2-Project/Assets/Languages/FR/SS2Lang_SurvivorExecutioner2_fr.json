@@ -36,7 +36,7 @@
     "SS2_EXECUTIONER2_IONCHARGE_DESC": "Déchargez rapidement vos <color=#29e5f2>Charges ioniques</color> sous forme de balles ionique pour <style=cIsDamage>350% de dégâts</style>. Les <color=#29e5f2>Charges ioniques</color> sont restaurées à chaque victimes.",
 
     "SS2_EXECUTIONER2_CONSECRATION_NAME": "Consécration",
-    "SS2_EXECUTIONER2_CONSECRATION_DESC": "Consumez toutes vos <color=#29e5f2>Charges ioniques</color> pour <style=cIsHealing>vous soigner</style>, gagner de la  <style=cIsUtility>vitesse de déplacement</style>, et réduire vos temps de recharges de compétences de <style=cIsUtility>1 seconde</style> par charge.",
+    "SS2_EXECUTIONER2_CONSECRATION_DESC": "Consumez toutes vos <color=#29e5f2>Charges ioniques</color> pour <style=cIsHealing>vous soigner</style>, gagner de la <style=cIsUtility>vitesse de déplacement</style>, et réduire vos temps de recharges de compétences de <style=cIsUtility>1 seconde</style> par charge.",
 
     "SS2_EXECUTIONER2_DASH_NAME": "Dispersion de foule",
     "SS2_EXECUTIONER2_DASH_DESC": "Déplacez-vous rapidement en avant et inspirez la <style=cIsUtility>peur</style> chez les ennemis proches.",
