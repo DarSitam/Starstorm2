@@ -39,7 +39,7 @@
 		"SS2_ITEM_LOWQUALITYSPEAKERS_LORE": "Retour : Haut-parleur polyvalent A-AMP 25 watts\nNuméro de suivi : 629********\nLivraison estimée : 14/03/2055\nMode d'expédition : Prioritaire\nAdresse de livraison : 444 Anthem Ln., Twin Cities, Earth\nRaison du retour :\n\nDésolé de vous causer des soucis, mon pote, mais lorsque je l'ai déballé et branché pour le tester, le son est sorti... brouillé ? Avec des interférences ? C'est difficile à décrire. Si je devais deviner, il a dû être endommagé pendant le transport. Je suppose que je suis content d'avoir opté pour la garantie.\n\nRemboursement :\nRemplacer : X",
 		
 		"SS2_ITEM_POISONOUSGLAND_NAME": "Glande neurotoxique",
-		"SS2_ITEM_POISONOUSGLAND_DESC": "<style=cIsUtility>Déconcentre</style> les ennemis en réussissant une attaque pour <style=cIsUtility>2</style> <style=cStack>(+2 par cumul)</style> secondes, les faisant louper <style=cIsUtility>{0}%</style> de leurs attaques pour chaque <style=cIsDamage>malus</style> qu'ils ont.",
+		"SS2_ITEM_POISONOUSGLAND_DESC": "En cas d'attaque réussie, <style=cIsUtility>déconcentre</style> les ennemis pendant <style=cIsUtility>2</style> <style=cStack>(+2 par cumul)</style> secondes, les faisant louper <style=cIsUtility>{0}%</style> de leurs attaques pour chaque <style=cIsDamage>malus</style> qu'ils ont.",
 		"SS2_ITEM_POISONOUSGLAND_PICKUP": "Les malus infligé aux ennemis font rater leurs attaques.",
 		"SS2_MISSED_DAMAGE_HITMARKER": "LOUPÉ !",
 		
