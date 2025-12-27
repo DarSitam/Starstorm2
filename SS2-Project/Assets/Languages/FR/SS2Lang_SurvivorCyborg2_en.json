@@ -1,0 +1,41 @@
+{
+  "strings": {
+    "SS2_CYBORG2_NAME": "Cyborg",
+    "SS2_CYBORG2_BODY_NAME": "Cyborg",
+
+    "SS2_KEYWORD_CYBORG_PRIME": "<color=#42f5b3><style=cKeywordName>Primed</style></color><style=cSub>Hitting <color=#42f5b3>Primed</color> enemies with a different attack deals an additional <style=cIsDamage>300% damage</style> in an area.",
+
+    "SS2_CYBORG2_PRIMARY_CANNON_NAME": "Destructeur",
+    "SS2_CYBORG2_PRIMARY_CANNON_DESCRIPTION": "Tirez un laser <style=cIsUtility>ralentissant</style> qui inflige <style=cIsDamage>200% de dégâts</style>",
+
+    "SS2_CYBORG2_PRIMARY_LASTPRISM_NAME": "Oblitérateur",
+    "SS2_CYBORG2_PRIMARY_LASTPRISM_DESCRIPTION": "Chargez un laser continu qui inflige <style=cIsDamage>1000% de dégâts</style> par seconde, mais qui <style=cIsHealth>réduit la vitesse de rotation.",
+
+    "SS2_CYBORG2_SECONDARY_LASER_NAME": "Étoile montante",
+    "SS2_CYBORG2_SECONDARY_LASER_DESCRIPTION": "Tirez des rafales laser à jusqu'à <style=cIsDamage>3</style> cibles, infligeant <style=cIsDamage>3x150% de dégâts</style> et <color=#42f5b3>Amorce</color> les ennemis.",
+
+    "SS2_CYBORG2_SECONDARY_MINES_NAME": "Danger électrique",
+    "SS2_CYBORG2_SECONDARY_MINES_DESCRIPTION": "Placez une mine qui <style=cIsDamage>électrocute</style> et <color=#42f5b3>Amorce</color> les cibles alentours. Un maximum de 3 peut être posé.",
+
+    "SS2_CYBORG2_UTILITY_TELEPORTER_NAME": "Rappel",
+    "SS2_CYBORG2_UTILITY_TELEPORTER_DESCRIPTION": "Déployez un <style=cIsUtility>point de distorsion</style>. Réutilisez-le pour <style=cIsUtility>échanger</style> votre position avec les cibles alentours.",
+
+    "SS2_CYBORG2_UTILITY_TRAP_NAME": "Réutiliser",
+    "SS2_CYBORG2_UTILITY_TRAP_DESCRIPTION": "Déployez un appareil qui <style=cIsDamage>capture</style> les ennemis avec peu de PV, octroyant <style=cIsUtility>un bonus d'argent</style> et <style=cIsDamage>les pouvoirs d'élite</style> aux alliés proche.",
+
+    "SS2_CYBORG2_UTILITY_TELEPORT_NAME": "Téléportation",
+    "SS2_CYBORG2_UTILITY_TELEPORT_DESCRIPTION": "<style=cIsUtility>Teleport</style> to your <style=cIsUtility>warp point</style>.",
+
+    "SS2_CYBORG2_SPECIAL_MAGNETBALL_NAME": "Overheat Redress",
+    "SS2_CYBORG2_SPECIAL_MAGNETBALL_DESCRIPTION": "Projetez une concentration d'énergie infligeant <style=cIsDamage>700% de dégâts</style>. La concentration lâche des éclats qui explosent en infligeant <style=cIsDamage>6x175% de dégâts</style> et <color=#42f5b3>Amorce</color> les ennemis.",
+
+    "SS2_CYBORG2_SPECIAL_DETONATE_NAME": "Détonner",
+    "SS2_CYBORG2_SPECIAL_DETONATE_DESCRIPTION": "<style=cIsDamage>Boum.</style>",
+
+    "SS2_ACHIEVEMENT_CYBORG2_MASTERY_NAME": "Cyborg : Maîtrise",
+    "SS2_ACHIEVEMENT_CYBORG2_MASTERY_DESC": "En tant que Cyborg, terminez le jeu ou oblitérez vous en mode Mousson ou plus difficile.",
+
+    "SS2_ACHIEVEMENT_CYBORG2_GRANDMASTERY_NAME": "Cyborg : Grande Maîtrise",
+    "SS2_ACHIEVEMENT_CYBORG2_GRANDMASTERY_DESC": "En tant que Cyborg, terminez le jeu ou oblitérez vous en mode Typhon ou plus difficile."
+  }
+}

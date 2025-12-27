@@ -1,0 +1,22 @@
+{
+  "strings": {
+    "SS2_KNIGHT_BODY_NAME": "Chevalier",
+    "SS2_KNIGHT_BODY_SUBTITLE": "Gardien royal",
+    "SS2_KNIGHT_DESCRIPTION": "Le Chevalier est un expert qualifié en combat au corps à corps, se battant en duel et parant ses adversaires avec un timing et un exécution précise.\n\n<color=#CCD3E0>< ! > parry.",
+    "SS2_KNIGHT_OUTRO_FLAVOR": "... et c'est ainsi qu'il partit, meurtri jusqu'au cœur de l'espoir.",
+    "SS2_KNIGHT_OUTRO_FAILURE": "... et c'est ainsi qu'il disparut, bouclier brisé et espoir éteint.",
+    "SS2_KNIGHT_BODY_LORE": "why are there knights in space",
+
+    "SS2_KNIGHT_PASSIVE_NAME": "Revigorant",
+
+    "SS2_KNIGHT_PRIMARY_SWORD_NAME": "Lame aeonique",
+
+    "SS2_KNIGHT_SECONDARY_SHIELD_NAME": "Blocage",
+    
+    "SS2_KNIGHT_SHIELD_BASH_NAME": "Charge",
+
+    "SS2_KNIGHT_UTILITY_LEAP_NAME": "Ruée fracassante",
+    
+    "SS2_KNIGHT_SPECIAL_BANNER_NAME": "Rally"
+  }
+}
