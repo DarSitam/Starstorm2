@@ -5,7 +5,6 @@
     "SS2_KNIGHT_DESCRIPTION": "Le Chevalier est un expert qualifié en combat au corps à corps, se battant en duel et parant ses adversaires avec un timing et un exécution précise.\n\n<color=#CCD3E0>< ! > parry.",
     "SS2_KNIGHT_OUTRO_FLAVOR": "... et c'est ainsi qu'il partit, meurtri jusqu'au cœur de l'espoir.",
     "SS2_KNIGHT_OUTRO_FAILURE": "... et c'est ainsi qu'il disparut, bouclier brisé et espoir éteint.",
-    "SS2_KNIGHT_BODY_LORE": "why are there knights in space",
 
     "SS2_KNIGHT_PASSIVE_NAME": "Revigorant",
 
@@ -17,6 +16,6 @@
 
     "SS2_KNIGHT_UTILITY_LEAP_NAME": "Ruée fracassante",
     
-    "SS2_KNIGHT_SPECIAL_BANNER_NAME": "Rally"
+    "SS2_KNIGHT_SPECIAL_BANNER_NAME": "Ralliement"
   }
 }
