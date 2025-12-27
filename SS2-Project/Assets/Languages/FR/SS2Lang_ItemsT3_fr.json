@@ -45,10 +45,10 @@
 
 		"SS2_ITEM_BANEFLASK_PICKUP": "Les attaques infligent du Fléau. Chaque malus sur un ennemi ayant Fléau augmentent les dégats de Fléau.",
 
-		"SS2_ITEM_GALVANICCORE_NAME": "Coeur galvanique",
+		"SS2_ITEM_GALVANICCORE_NAME": "Cœeur galvanique",
 		"SS2_ITEM_GALVANICCORE_DESC": "<style=cIsUtility>{0}%</style> <style=cStack>(+{4} par cumul)</style> de chance par coup d'<style=cIsUtility>étourdir</style>. Les ennemis étourdis appliquent <style=cIsUtility>Rasage</style> aux ennemis à moins de <style=cIsUtility>{5}m</style> <style=cStack>(+{6}m par cumul)</style>, réduisant leur <style=cIsHealing>PV max</style> de <style=cIsHealing>{1}%</style>, <style=cIsDamage>leur dégats</style> de <style=cIsDamage>{2}%</style>, et <style=cIsUtility>leur vitesse de déplacement</style> de <style=cIsUtility>{3}%</style>.",
 		"SS2_ITEM_GALVANICCORE_PICKUP": "Les ennemis étourdis appliquent un malus aux ennemis alentours.",
-		"SS2_ITEM_GALVANICCORE_LORE": "Commande : Coeur galvanique\nNuméro de suivi : 0121923\nLivraison estimée : 22/4/2056\nMéthode d'envoi : Prioritaire \nAdresse d'expédition : Place de la Science #42, MV Prime\nDétails de l'envoi :\n\nLe pouvoir est tien.\nSouhaitons la bienvenue à la dernière génération de technologie de coeur de puissance dans la galaxie. Le Coeur galvanique est l'invention la plus révolutionnaire depuis la Postcombustion lumineuse ! Ne restez pas ébahis, c'est le moment d'embrasser l'avenir.\nEn vous remerciant de votre achat.\n\nOMNI.co"
+		"SS2_ITEM_GALVANICCORE_LORE": "Commande : Cœeur galvanique\nNuméro de suivi : 0121923\nLivraison estimée : 22/4/2056\nMéthode d'envoi : Prioritaire \nAdresse d'expédition : Place de la Science #42, MV Prime\nDétails de l'envoi :\n\nLe pouvoir est tien.\nSouhaitons la bienvenue à la dernière génération de technologie de cœeur de puissance dans la galaxie. Le cœeur galvanique est l'invention la plus révolutionnaire depuis la Postcombustion lumineuse ! Ne restez pas ébahis, c'est le moment d'embrasser l'avenir.\nEn vous remerciant de votre achat.\n\nOMNI.co"
 
 	}
 }
